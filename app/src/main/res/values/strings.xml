@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImagesProject</string>
+    <string name="home_toolbar">Home</string>
+    <string name="my_images">My Images</string>
+    <string name="best_images">Best Images</string>
+    <string name="image1_name">Image 1</string>
+    <string name="image2_name">Image 2</string>
+    <string name="image3_name">Image 3</string>
+    <string name="image4_name">Image 4</string>
+    <string name="image5_name">Image 5</string>
+    <string name="image6_name">Image 6</string>
+    <string name="image7_name">Image 7</string>
+    <string name="image8_name">Image 8</string>
+    <string name="image9_name">Image 9</string>
+</resources>
